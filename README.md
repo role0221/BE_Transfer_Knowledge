@@ -1,9 +1,5 @@
 # BE_Transfer_Knowledge
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Stack
 
 ```bash
@@ -56,4 +52,3 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
-# BE_Transfer_Knowledge
